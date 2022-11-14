@@ -1,0 +1,26 @@
+{
+    "name": "kjbgveioulilewgubuwei;urbglikwe.briubgvei.lurbvgle.wijbvgliwegilebwergwerghweoighlieurghilugbilblugbjkbhbhrbhfiuhfo;wqhif;hf[oup0it[outoi3uthuihruihroihg90wrqiohg3ouitheruihufruifhruig78q3gr3uifgjkhfuifhbjgbuguiqrjkgnruieghuerigher7gh3uihq3ui4th3ui4hui34hui43huh5uhuiwenhjknefhiofjihf8whrh4or3u8o4rhoi h23urhuh8uhrouihw3uorh28rh2390r02ru ioj4894urt4ipjtifgiop4fgt  94tu3p4itjhn4tipj4ith34pthw3hjt0[tg]gr[gu0[ug]034urgioph4gurnjnjkgvn dfbgui3thwio;erhtro[i'tihjwk?EQrgnhq934o;gho9q8euwigbr9qei78y407",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "KSR030": "github:kaise-ksrobot/pxt-KSR030#febeea90c4fa19bd6c94eebfef05da4d48d1ab3b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
